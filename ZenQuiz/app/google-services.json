@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84237103590",
+    "project_id": "zenquiz-2259a",
+    "storage_bucket": "zenquiz-2259a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84237103590:android:f6686005133c071d41a627",
+        "android_client_info": {
+          "package_name": "com.example.zenquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84237103590-lqa3r99hj4k6a41r397dpruj6bdkcuff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDH6cZ0ah7G5Gis8wYoNHQaF3c_vIkPlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84237103590-lqa3r99hj4k6a41r397dpruj6bdkcuff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
